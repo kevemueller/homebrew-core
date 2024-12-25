@@ -4,6 +4,7 @@ class Deadfinder < Formula
   url "https://github.com/hahwul/deadfinder/archive/refs/tags/1.5.0.tar.gz"
   sha256 "5575127e8ca9c8531991ad32d04bda3f55f13cc657cf01ac0c6ace9d01c59a8a"
   license "MIT"
+  revision 1
   head "https://github.com/hahwul/deadfinder.git", branch: "main"
 
   bottle do
