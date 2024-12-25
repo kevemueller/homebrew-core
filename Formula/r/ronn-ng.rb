@@ -4,6 +4,7 @@ class RonnNg < Formula
   url "https://github.com/apjanke/ronn-ng/archive/refs/tags/v0.10.1.tar.gz"
   sha256 "180f18015ce01be1d10c24e13414134363d56f9efb741fda460358bb67d96684"
   license "MIT"
+  revision 1
 
   bottle do
     sha256 cellar: :any_skip_relocation, arm64_sequoia:  "3a36bd1699825e23e988f88430a33992b0d1cb846897e93b7e55d4f48c1c6d0e"
