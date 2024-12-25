@@ -4,6 +4,7 @@ class Mikutter < Formula
   url "https://mikutter.hachune.net/bin/mikutter-5.0.8.tar.gz", using: :homebrew_curl
   sha256 "c68f9a7cb7424e69b7f5a6557b884deb120708db5678e51f30f3cbb011c5b51f"
   license "MIT"
+  revision 1
   head "git://mikutter.hachune.net/mikutter.git", branch: "develop"
 
   livecheck do
