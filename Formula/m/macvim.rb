@@ -6,6 +6,7 @@ class Macvim < Formula
   version "9.1.0727"
   sha256 "e1bc74beb3ee594503b5e1e20a9d075b5972bbaa642a91921116531475f46a6f"
   license "Vim"
+  revision 1
   head "https://github.com/macvim-dev/macvim.git", branch: "master"
 
   # The stable Git tags use a `release-123` format and it's necessary to check
