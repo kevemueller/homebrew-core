@@ -5,6 +5,7 @@ class CucumberCpp < Formula
       tag:      "v0.7.0",
       revision: "ceb025fb720f59b3c8d98ab0de02925e7eab225c"
   license "MIT"
+  revision 1
 
   bottle do
     sha256 cellar: :any_skip_relocation, arm64_sequoia:  "e52705eba218bc405d689160e6e28308ff0f2f33bcddf6ec85898c0cfcab1e1f"
