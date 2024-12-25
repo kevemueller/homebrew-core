@@ -6,7 +6,7 @@ class Solargraph < Formula
       tag:      "v0.50.0",
       revision: "58f3b8d0f31a3bded0b1cdbb6b2934eee262f03b"
   license "MIT"
-  revision 1
+  revision 2
 
   bottle do
     sha256 cellar: :any,                 arm64_sequoia:  "1deca10c6cdef6ffd6b11bd15f9cf0db603e1558efd3d3dd74ff88747e25f38b"
