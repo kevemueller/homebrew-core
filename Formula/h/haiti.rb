@@ -4,6 +4,7 @@ class Haiti < Formula
   url "https://github.com/noraj/haiti/archive/refs/tags/v2.1.0.tar.gz"
   sha256 "ee1fee20c891db567abe753de25e7f1f1d4c7c59d92b6ce28f2e96606f247828"
   license "MIT"
+  revision 1
 
   bottle do
     rebuild 2
