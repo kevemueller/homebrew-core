@@ -5,6 +5,7 @@ class Licensed < Formula
       tag:      "v5.0.1",
       revision: "d74f3bcf74c241eb79b9b82d7ae3d4bad22bc791"
   license "MIT"
+  revision 1
 
   bottle do
     sha256 cellar: :any,                 arm64_sequoia: "a93226055833003dfd6f675701b213ea0f0476dcb9f40707c99095e86bb1fcc2"
