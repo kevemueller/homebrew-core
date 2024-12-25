@@ -3234,6 +3234,7 @@ vfox
 vgmstream
 vgrep
 vhs
+vice
 victorialogs
 victoriametrics
 viddy
