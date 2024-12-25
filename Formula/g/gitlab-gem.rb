@@ -4,6 +4,7 @@ class GitlabGem < Formula
   url "https://github.com/NARKOZ/gitlab/archive/refs/tags/v5.1.0.tar.gz"
   sha256 "fdb4cab8f09258b9b8a70b3cddd618dc19a10303124a9176dd7ca5ed70f98ce4"
   license "BSD-2-Clause"
+  revision 1
 
   bottle do
     sha256 cellar: :any,                 arm64_sequoia: "dfdc4e6149913dbcd7d195dbcd7ed62a379762b842a2acc9a9d1f953ef51ee7c"
